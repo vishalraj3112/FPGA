@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\vhdl\tw_bit_multiplier\multiplier.ncd
+OUTFILE=D:\vhdl\tw_bit_multiplier\multiplier.bit
+FAMILY=Spartan6
+PART=xc6slx9-3csg324
+WORKINGDIR=D:\vhdl\tw_bit_multiplier
+LICENSE=WebPack
+USER_INFO=211218152_0_0_932
